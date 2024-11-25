@@ -1,0 +1,3 @@
+[submodule "mads-hackathon"]
+	path = mads-hackathon
+	url = https://github.com/raoulg/mads-hackathon.git
